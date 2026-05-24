@@ -1,6 +1,17 @@
 # NovaCart Fine-Tune Pipeline
 
+> Fine-tuning Amazon Nova Micro on Bedrock to answer e-commerce support tickets — serverless pipeline + Angular chat UI.
+
+![AWS](https://img.shields.io/badge/AWS-Bedrock-FF9900?logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 I wanted to see how far a small, domain-specific dataset could push a foundation model. So I built NovaCart — a made-up e-commerce company — and taught Amazon Nova Micro to answer support tickets in its voice. The whole thing runs on AWS: drop a CSV in S3 and an hour later you get an email saying your custom model is ready to chat with.
+
+[![NovaCart demo](https://img.youtube.com/vi/AK4zYwg4hAU/maxresdefault.jpg)](https://youtu.be/AK4zYwg4hAU)
+
+## Architecture
 
 ![Architecture](novacart-pkg/architecture/architecture.png)
 
