@@ -1,0 +1,25 @@
+<div class="chat">
+  <h2>NovaCart Support</h2>
+
+  <div class="messages">
+    @for (m of messages(); track $index) {
+      <div class="msg" [class.user]="m.role === 'user'" [class.bot]="m.role === 'bot'">
+        <pre>{{ m.text }}</pre>
+      </div>
+    }
+    @if (loading()) {
+      <div class="msg bot"><em>…thinking</em></div>
+    }
+  </div>
+
+  <form (ngSubmit)="send()" class="composer">
+      <input
+      [value]="input()"
+      (input)="input.set($any($event.target).value)"
+      placeholder="Ask NovaCart support…"
+      [disabled]="loading()"
+      autocomplete="off"
+    />
+    <button type="submit" [disabled]="loading() || !input().trim()">Send</button>
+  </form>
+</div>

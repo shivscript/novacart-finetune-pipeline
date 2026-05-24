@@ -1,0 +1,3 @@
+step_number,epoch_number,validation_loss
+30,0,0.3665170967578888
+60,1,0.17014086246490479

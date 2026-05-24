@@ -1,0 +1,22 @@
+{
+  "_comment": "Trust policy + permissions for the role Bedrock assumes during fine-tuning. Bedrock reads training data from S3 and writes model artifacts to output/.",
+  "TrustPolicy": {
+    "Version": "2012-10-17",
+    "Statement": [{
+      "Effect": "Allow",
+      "Principal": {"Service": "bedrock.amazonaws.com"},
+      "Action": "sts:AssumeRole"
+    }]
+  },
+  "PermissionsPolicy": {
+    "Version": "2012-10-17",
+    "Statement": [{
+      "Effect": "Allow",
+      "Action": ["s3:GetObject", "s3:PutObject", "s3:ListBucket"],
+      "Resource": [
+        "arn:aws:s3:::novacart-finetune",
+        "arn:aws:s3:::novacart-finetune/*"
+      ]
+    }]
+  }
+}

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Lambda build artifacts
+*.zip
+build/
+dist/
+package/
+
+# AWS / secrets — NEVER commit credentials
+.aws/
+*.pem
+.env
+.env.*
+credentials
+config
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / local scratch
+*.log
+scratch/
+tmp/

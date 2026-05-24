@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+*.log
+
+# Local secrets / env
+.env
+.env.local
+src/environments/environment.local.ts
+
+# AWS
+.aws-sam/
+*.zip
+
+# Local-only reference (not pushed)
+_local_reference/

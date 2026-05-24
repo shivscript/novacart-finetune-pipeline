@@ -1,0 +1,684 @@
+"customer_query","support_response","category"
+"How do I return a product?","Hi there! You can return any product within 7 days of delivery. Here's how:
+1. Go to 'My Orders' → Select the order → Click 'Return'
+2. Choose a reason and pickup slot
+3. Our courier will collect it within 24-48 hours
+4. Refund hits your account in 5-7 business days
+
+Need more help? Just reply here.
+
+— Team NovaCart 💙","returns"
+"I want to return my recent order","Hi! Sorry to hear it didn't work out. To return:
+1. Open 'My Orders' → tap the order → 'Return'
+2. Pick a reason and slot for pickup
+3. Free pickup within 24-48 hours
+4. Refund in 5-7 business days after we receive it
+
+Let me know if you need help.
+
+— Team NovaCart 💙","returns"
+"Can I return after 10 days?","Hi! I understand, but our return window is 7 days from delivery. After that, returns aren't possible per policy.
+
+If the product has a manufacturing defect or is under warranty, please contact the manufacturer directly. I can help you find warranty info — share your order ID.
+
+— Team NovaCart 💙","returns"
+"My refund is still not credited","Hi! Sorry for the wait. Refunds typically take 5-7 business days:
+1. Check 'My Orders' → order → 'Refund Status'
+2. If 'Processed' but not received, share your order ID and I'll escalate to finance
+
+— Team NovaCart 💙","returns"
+"How long does refund take?","Hi! Refund timelines:
+• Online payments: 5-7 business days to source account
+• COD orders: 3-5 business days to your NovaCart wallet or bank
+• UPI refunds: usually 24-48 hours
+
+Track status in 'My Orders' → 'Refund Status'.
+
+— Team NovaCart 💙","returns"
+"Can I exchange instead of returning?","Hi! Yes, you can request an exchange for size or color:
+1. Go to 'My Orders' → Select order → 'Exchange'
+2. Pick the new size/color (subject to availability)
+3. Free pickup of old item, new one ships in 3-5 days
+
+Note: Exchange is only available within the 7-day return window.
+
+— Team NovaCart 💙","returns"
+"Refund amount is less than I paid","Hi! I'm sorry for the confusion. Refund deductions can happen due to:
+• Used/damaged item (partial refund)
+• COD handling charges (₹40 non-refundable)
+• Express shipping (non-refundable on return)
+
+Share your order ID and I'll get a detailed breakdown for you.
+
+— Team NovaCart 💙","returns"
+"Do you offer free returns?","Hi! Yes, returns are free across all of India. Our courier picks up the product from your doorstep at no cost. You only pay if the original order was Cash on Delivery (₹40 handling fee was already paid and is non-refundable).
+
+— Team NovaCart 💙","returns"
+"What if I lost the original packaging?","Hi! Original packaging is preferred but not always required. For most categories (apparel, accessories), any safe packaging works. For electronics, original box is needed for warranty validity.
+
+Share your order ID and I'll confirm requirements for your item.
+
+— Team NovaCart 💙","returns"
+"I returned the item but no refund yet","Hi! Sorry for the delay. Here's what to check:
+1. Order page → 'Return Status' — has it been 'Received & Verified'?
+2. If yes, refund usually triggers within 24 hours
+3. After triggering, money reflects in 5-7 business days
+
+Share your order ID and I'll personally track it.
+
+— Team NovaCart 💙","returns"
+"Can I return a gift item?","Hi! Yes, gift items can be returned within 7 days. The refund goes to the original purchaser's account. If you'd like the refund as NovaCart credit instead, mention it in the return reason — we can arrange that.
+
+— Team NovaCart 💙","returns"
+"I want refund to a different account","Hi! For security, refunds go to the original payment source. If your original account is closed, please share:
+1. Closure proof from the bank
+2. New account details
+
+We'll process an exception via NEFT in 7-10 days.
+
+— Team NovaCart 💙","returns"
+"Are sale items returnable?","Hi! Yes, most sale items are returnable within 7 days. However, items marked 'Final Sale' or 'No Returns' on the product page are not returnable — check the product page before ordering.
+
+— Team NovaCart 💙","returns"
+"Pickup person didn't come","Hi! I'm sorry about that. Let's fix it:
+1. Share your order ID and I'll re-schedule pickup
+2. Pickup will be re-attempted within 24 hours
+3. If repeated misses happen, I'll arrange a different courier partner
+
+— Team NovaCart 💙","returns"
+"Refund showing pending for 10 days","Hi! That's longer than usual. Let me escalate this:
+1. Share your order ID
+2. I'll raise a P1 ticket with finance team
+3. You'll get a resolution within 48 hours
+
+Apologies for the delay.
+
+— Team NovaCart 💙","returns"
+"Can I cancel my return request?","Hi! Yes, you can cancel a return before pickup:
+1. Go to 'My Orders' → Select order → 'Cancel Return'
+2. Confirm cancellation
+
+If pickup is already done, you'll need to wait until item reaches us and request re-delivery (charges may apply).
+
+— Team NovaCart 💙","returns"
+"Where do I see refund status?","Hi! To check refund status:
+1. Open 'My Orders'
+2. Tap the relevant order
+3. Scroll to 'Refund Status' section
+
+Statuses: Initiated → Processed → Credited. You'll get SMS and email notifications at each step.
+
+— Team NovaCart 💙","returns"
+"What is return policy for electronics?","Hi! Electronics returns:
+• 7 days from delivery (same as other items)
+• Must include original box, accessories, and invoice
+• No physical damage or water exposure
+• Defective items: also covered under manufacturer warranty
+
+— Team NovaCart 💙","returns"
+"Got refund email but no money","Hi! The refund email confirms initiation, not credit:
+• Online payments: takes 5-7 business days to appear in your bank
+• Check 'Recent transactions' on day 5
+• If not credited by day 8, share order ID and bank statement screenshot
+
+— Team NovaCart 💙","returns"
+"Why was my return rejected?","Hi! I'm sorry to hear that. Common rejection reasons:
+• Item showed signs of use beyond inspection
+• Original tags/packaging missing for non-eligible categories
+• Return raised beyond 7-day window
+
+Share your order ID and I'll review the inspection report personally.
+
+— Team NovaCart 💙","returns"
+"Where is my order?","Hi! Let me help you track:
+1. Go to 'My Orders' for real-time status
+2. 'Out for Delivery' → expect within 24 hours
+3. Stuck in 'In Transit' over 48 hours → reply with order ID, I'll escalate
+
+— Team NovaCart 💙","tracking"
+"My order is delayed","Hi! I'm sorry for the delay. Common reasons:
+• Remote pincode adds 1-2 days
+• Weather/transport disruptions
+• High-demand sale period
+
+Share your order ID — I'll get exact status from the courier. If significantly delayed, we'll compensate with NovaCart credit.
+
+— Team NovaCart 💙","tracking"
+"Order tracking shows wrong location","Hi! Tracking updates can sometimes lag by 6-12 hours. If location seems off:
+1. Wait 12 hours and refresh
+2. If still wrong, share your order ID and AWB number
+3. I'll get clarification from the courier hub directly
+
+— Team NovaCart 💙","tracking"
+"When will my order arrive?","Hi! Delivery estimates depend on your pincode and order date:
+• Metro cities: 2-3 days standard, 1-2 days express
+• Tier-2 cities: 3-5 days standard
+• Remote areas: 5-7 days
+
+Check 'My Orders' for the exact promised date.
+
+— Team NovaCart 💙","tracking"
+"Did my order ship?","Hi! To check shipment status:
+1. Open 'My Orders' → tap the order
+2. Look for 'Shipped' status with AWB number
+3. You'll also get an SMS and email when shipped
+
+Not shipped yet? Most orders ship within 24 hours of placement.
+
+— Team NovaCart 💙","tracking"
+"Order out for delivery but not received","Hi! 'Out for Delivery' usually means same-day arrival. If not received:
+• Check missed call from delivery executive (number on tracking page)
+• Delivery attempts till 9 PM in most areas
+• Tomorrow's re-attempt if missed today
+
+Share order ID for direct escalation.
+
+— Team NovaCart 💙","tracking"
+"Tracking not updating","Hi! Tracking may not update if:
+• Order just shipped (allow 12-24 hours for first scan)
+• Package in transit between hubs
+• Weekend/holiday delay
+
+If no update in 48 hours, share order ID and I'll get the latest status manually.
+
+— Team NovaCart 💙","tracking"
+"Can I speed up my delivery?","Hi! For faster delivery on existing orders, options are limited once shipped. You can:
+• Upgrade to Express in 'My Orders' BEFORE shipping (₹99 extra)
+• Use Premium membership for free same-day delivery in metros
+
+Share order ID — I'll check if upgrade is still possible.
+
+— Team NovaCart 💙","tracking"
+"Order shipped to wrong address","Hi! Let me help. If item not delivered yet:
+1. Share order ID immediately
+2. I'll intercept with courier and re-route if possible
+
+If already delivered to wrong address: we'll initiate a fraud check and refund within 7 days after investigation.
+
+— Team NovaCart 💙","tracking"
+"I missed the delivery","Hi! No worries. Most couriers re-attempt for 3 days:
+• Day 1 (today): missed
+• Day 2: re-attempt automatically
+• Day 3: final attempt
+
+If all attempts fail, item returns to us and you get a full refund. To re-schedule a specific day, share your order ID.
+
+— Team NovaCart 💙","tracking"
+"How do I track using AWB number?","Hi! You can track directly on the courier's website:
+1. Find AWB number in 'My Orders' → order details
+2. Visit courier site (Delhivery, Blue Dart, etc.)
+3. Paste AWB to see live status
+
+Or just use 'My Orders' on NovaCart — we show the same info.
+
+— Team NovaCart 💙","tracking"
+"My order says delivered but I didn't receive it","Hi! This is concerning. Please:
+1. Check with family/neighbors first
+2. If still missing, share your order ID immediately
+3. I'll raise a P1 escalation with the courier and investigate
+4. Resolution within 48 hours — refund or replacement
+
+— Team NovaCart 💙","tracking"
+"Why is shipping taking so long for my pincode?","Hi! Some pincodes have longer delivery times due to:
+• Limited courier coverage
+• Geographic remoteness
+• Special access requirements (army cantonment, restricted zones)
+
+Share your pincode and I'll confirm exact SLA for future orders.
+
+— Team NovaCart 💙","tracking"
+"Can I change delivery slot?","Hi! Currently, we don't offer specific delivery time slots for standard orders. Delivery happens 9 AM - 9 PM. For scheduled delivery, upgrade to Premium membership for time-slot selection on select pincodes.
+
+— Team NovaCart 💙","tracking"
+"My item is stuck at hub for 4 days","Hi! That's longer than acceptable. Let me escalate:
+1. Share your order ID and AWB number
+2. I'll contact the hub manager directly
+3. Either dispatch within 24 hours or full refund + compensation
+
+Apologies for the wait.
+
+— Team NovaCart 💙","tracking"
+"Do you accept cash on delivery?","Hi! Yes, NovaCart accepts Cash on Delivery (COD) for orders up to ₹50,000. Just choose 'COD' at checkout — small ₹40 handling fee applies.
+
+— Team NovaCart 💙","payments"
+"Card payment failed","Hi! Sorry to hear that. Card failures usually happen due to:
+• Incorrect CVV or expiry
+• OTP timeout from bank
+• Daily transaction limit reached
+
+Try again or use UPI/Net Banking. If money was deducted, it auto-refunds within 5-7 days.
+
+— Team NovaCart 💙","payments"
+"Money deducted but order not placed","Hi! Don't worry, this is a known issue and your money is safe:
+1. Wait 30 minutes — order usually shows up
+2. If not, money auto-refunds within 5-7 business days
+3. Share transaction ID and email if you'd like me to expedite
+
+— Team NovaCart 💙","payments"
+"Which payment methods do you support?","Hi! NovaCart supports:
+• UPI (GPay, PhonePe, Paytm)
+• Credit/Debit cards (Visa, Mastercard, Rupay, Amex)
+• Net Banking (all major Indian banks)
+• Wallets (Paytm, MobiKwik, Amazon Pay)
+• Cash on Delivery (up to ₹50,000)
+• EMI options on cards & Bajaj Finserv
+
+— Team NovaCart 💙","payments"
+"EMI option not showing","Hi! EMI shows only if:
+• Cart value is ₹2,500 or more
+• You're using an eligible credit card
+• Item is EMI-eligible (shown on product page)
+
+If you meet these and still don't see EMI, share screenshot and I'll investigate.
+
+— Team NovaCart 💙","payments"
+"Can I pay in parts?","Hi! We don't support split payments yet, but you have these options:
+• EMI via credit card (3, 6, 9, 12 months)
+• Bajaj Finserv No-Cost EMI (select products)
+• Pay Later with Simpl or LazyPay (up to ₹30,000)
+
+— Team NovaCart 💙","payments"
+"Is COD safe?","Hi! Yes, COD is safe. Quick safety tips:
+• Verify the item is sealed before paying
+• Pay only at the door, never in advance
+• Keep the bill — needed for any returns
+• Use exact cash if possible (couriers may not always have change)
+
+— Team NovaCart 💙","payments"
+"Why was COD not available for my order?","Hi! COD might not be available because:
+• Cart value above ₹50,000 (COD limit)
+• Delivery pincode not COD-serviceable
+• Account had previous COD refusal/cancellation
+
+Use a prepaid option, or share order details for me to check.
+
+— Team NovaCart 💙","payments"
+"My UPI payment is stuck","Hi! UPI stuck payments usually resolve within 24 hours:
+• Check your bank app — was money debited?
+• If debited but no order, money refunds in 5-7 days
+• If not debited, just retry the payment
+
+Share UPI ref number if you need me to investigate.
+
+— Team NovaCart 💙","payments"
+"Can I use multiple coupons together?","Hi! Generally, only one coupon code can be applied per order. However:
+• Bank offers stack with coupons (e.g., 10% HDFC + WELCOME20)
+• Cashbacks via wallet stack with coupons
+• Premium member discount auto-applies on top of coupons
+
+— Team NovaCart 💙","payments"
+"My wallet balance not used in checkout","Hi! NovaCart wallet usage tips:
+1. Toggle 'Use Wallet' at checkout
+2. Wallet applies to product cost first, then shipping
+3. Minimum order value ₹199 to use wallet
+
+If still not applying, share screenshot and I'll check.
+
+— Team NovaCart 💙","payments"
+"Why did COD fee get added?","Hi! COD orders have a ₹40 handling fee because:
+• Cash collection has logistics cost
+• Higher return rate for COD orders
+• Anti-fraud measures
+
+The fee is waived for Premium members. Switch to prepaid to avoid it.
+
+— Team NovaCart 💙","payments"
+"How does no-cost EMI work?","Hi! No-Cost EMI explained:
+• You pay product price split over 3/6/9 months
+• Bank charges interest, but NovaCart gives equal discount
+• Net cost = product price (no extra interest)
+• Available on eligible cards and Bajaj Finserv
+
+— Team NovaCart 💙","payments"
+"Can I change payment method after placing order?","Hi! Payment method can't be changed after order is placed because the transaction is locked. Workaround:
+1. Cancel the order (if not yet shipped)
+2. Re-place it with the new payment method
+
+Share order ID if you need help cancelling.
+
+— Team NovaCart 💙","payments"
+"Refund amount not in original payment method","Hi! By default, refunds go to the original payment source. Exceptions:
+• COD orders → NovaCart wallet (instant) OR bank (5-7 days)
+• Cancelled card → refund as wallet credit or NEFT to alternate account (with proof)
+
+— Team NovaCart 💙","payments"
+"What is your shipping policy?","Hi! Shipping policy:
+• Free shipping on orders above ₹499
+• Standard: 3-5 business days
+• Express: 1-2 business days (₹99 extra)
+• COD available across India
+
+— Team NovaCart 💙","shipping"
+"Do you ship internationally?","Hi! Currently, NovaCart ships only within India. We're working on expanding to UAE and Singapore by end of year — stay tuned!
+
+— Team NovaCart 💙","shipping"
+"How much is shipping?","Hi! Shipping charges:
+• Orders above ₹499: FREE
+• Orders below ₹499: ₹49 flat
+• Express shipping: ₹99 (any order value)
+• Premium members: free express, always
+
+— Team NovaCart 💙","shipping"
+"Do you deliver to my pincode?","Hi! We deliver to 25,000+ pincodes across India. To check yours:
+1. Enter pincode on any product page
+2. You'll see delivery date and shipping options
+
+Share your pincode and I'll confirm.
+
+— Team NovaCart 💙","shipping"
+"Can I get same-day delivery?","Hi! Same-day delivery available in:
+• Mumbai, Delhi NCR, Bangalore, Hyderabad, Chennai, Kolkata, Pune
+• Order before 2 PM for same-day
+• Available for Premium members only
+• ₹149 charge for non-Premium
+
+— Team NovaCart 💙","shipping"
+"Do you ship on Sundays?","Hi! Yes! NovaCart ships and delivers 7 days a week, including Sundays and most public holidays. Sunday delivery may be slightly slower due to courier hub timings.
+
+— Team NovaCart 💙","shipping"
+"Can I order to multiple addresses?","Hi! Currently, each order ships to one address. If you need delivery to different addresses, please place separate orders.
+
+— Team NovaCart 💙","shipping"
+"Will shipping be free for small items?","Hi! Shipping depends on order total, not item size:
+• Total > ₹499 → free shipping
+• Total < ₹499 → ₹49 shipping
+
+Tip: Add items to reach ₹499 for free shipping!
+
+— Team NovaCart 💙","shipping"
+"Do you do gift wrapping?","Hi! Yes! Gift wrapping is available:
+• ₹39 per item
+• Includes premium box, ribbon, and gift note
+• Select 'Gift Wrap' on the product page or at checkout
+• Free for Premium members
+
+— Team NovaCart 💙","shipping"
+"Shipping cost on returns?","Hi! Good news — returns are FREE across India. Our courier picks up at no cost. The only deduction (if any) is the original COD handling fee of ₹40, which is non-refundable.
+
+— Team NovaCart 💙","shipping"
+"Is this product in stock?","Hi! Stock is shown in real-time on product page. If you can add to cart and checkout, it's in stock. 'Notify Me' = out of stock, we'll email when back.
+
+— Team NovaCart 💙","products"
+"Do you have warranty on electronics?","Hi! Yes, electronics carry manufacturer warranty (typically 1-2 years). Exact details on each product page → 'Specifications'. For warranty claims, contact the manufacturer with your invoice from 'My Orders'.
+
+— Team NovaCart 💙","products"
+"Are products genuine?","Hi! 100% yes. NovaCart sells only authentic products:
+• Brand-authorized sellers only
+• 100% authentic guarantee
+• Refund + ₹1,000 voucher if any item is found counterfeit
+• Original invoice with every order for warranty
+
+— Team NovaCart 💙","products"
+"How do I check product reviews?","Hi! On every product page:
+1. Scroll to 'Customer Reviews' section
+2. See star rating, photos, and written reviews
+3. Filter by rating (5-star, 1-star, etc.)
+4. Verified buyers marked with green tick
+
+— Team NovaCart 💙","products"
+"Will this item fit me?","Hi! For sizing help:
+1. Check 'Size Chart' on the product page
+2. Use 'Try & Buy' on select fashion items (return free if size doesn't fit)
+3. Read customer reviews for fit feedback ('runs small', 'true to size', etc.)
+
+— Team NovaCart 💙","products"
+"When will this item be back in stock?","Hi! Restock timelines vary by brand and item. To get notified:
+1. Tap 'Notify Me' on the product page
+2. You'll get email + SMS when stock returns
+3. Premium members get 24-hour early access
+
+— Team NovaCart 💙","products"
+"Is this product original or refurbished?","Hi! By default, all products on NovaCart are brand new and original. Refurbished items are clearly labeled with:
+• 'Refurbished' or 'Renewed' tag
+• 6-month warranty
+• 30% lower price typically
+
+No accidental refurbished products — always labeled.
+
+— Team NovaCart 💙","products"
+"Does this come with bill?","Hi! Yes, every order includes:
+• GST invoice (downloadable from 'My Orders')
+• Required for warranty claims and tax purposes
+• Physical invoice in package (for COD orders)
+
+For business GST invoice with company name, enter GSTIN at checkout.
+
+— Team NovaCart 💙","products"
+"What's the return window for this item?","Hi! Return window is 7 days from delivery for most products. Exceptions:
+• Innerwear, swimwear: not returnable (hygiene)
+• Customized items: not returnable
+• 'Final Sale' items: not returnable (clearly marked)
+
+Check the 'Returns' section on the product page.
+
+— Team NovaCart 💙","products"
+"Can I see this product in 3D or AR?","Hi! AR/3D view is available for select furniture and home decor:
+1. Open product page on the NovaCart app
+2. Tap 'View in Your Room' (AR icon)
+3. Place virtually using phone camera
+
+Not all products support this — rolling out more soon!
+
+— Team NovaCart 💙","products"
+"What is the country of origin?","Hi! Country of origin is shown on every product page under 'Specifications'. We comply with all Indian labeling regulations. If you have a specific product question, share the product link and I'll confirm.
+
+— Team NovaCart 💙","products"
+"Do you have bulk discounts?","Hi! Yes, bulk pricing available:
+• Buy 3+ items: extra 5% off
+• Buy 10+ items: extra 10% off (auto-applied)
+• Business orders: contact business@novacart.in for custom pricing
+• Premium members: additional 5% on top of bulk discounts
+
+— Team NovaCart 💙","products"
+"Can I pre-order upcoming items?","Hi! Pre-orders available on select launches:
+1. Look for 'Pre-Order' tag on the product page
+2. Pay full amount now to reserve
+3. Item ships on launch date
+4. Cancel anytime before shipping for full refund
+
+— Team NovaCart 💙","products"
+"Do you sell branded items only?","Hi! NovaCart features both branded and unbranded products. We label clearly:
+• Branded: sold by brand-authorized sellers, full warranty
+• Unbranded/Generic: budget-friendly, basic warranty
+• Filter by brand on category pages to choose
+
+— Team NovaCart 💙","products"
+"Are there any ongoing offers?","Hi! Check 'Offers' page on homepage for live deals. Also:
+• Subscribe to newsletter for exclusive offers
+• Premium members: extra 5% on everything
+• Bank offers: refreshed every Friday (HDFC, SBI, Axis)
+
+— Team NovaCart 💙","products"
+"I forgot my password","Hi! Reset your password in 3 steps:
+1. Login page → 'Forgot Password'
+2. Enter registered email
+3. Click reset link in email
+
+No email within 5 minutes? Share your registered email — I'll trigger manual reset.
+
+— Team NovaCart 💙","account"
+"How do I change my delivery address?","Hi! Address changes are easy:
+1. 'My Orders' → Select order → 'Edit Address' (before shipping only)
+2. For future orders: 'My Account' → 'Saved Addresses' → 'Add/Edit'
+
+Already shipped? Contact courier with AWB from order page.
+
+— Team NovaCart 💙","account"
+"How do I become a premium member?","Hi! NovaCart Premium perks: free express delivery, extra discounts, early sale access:
+1. 'My Account' → 'Premium Membership'
+2. Choose monthly (₹199) or annual (₹1,499)
+3. Benefits start instantly
+
+— Team NovaCart 💙","account"
+"How do I delete my account?","Hi! Sorry to see you go. To delete:
+1. 'My Account' → 'Privacy Settings'
+2. Click 'Delete Account'
+3. Confirm via email link we send
+
+Note: permanent deletion of order history, addresses, wallet. Withdraw wallet balance first!
+
+— Team NovaCart 💙","account"
+"Can I have multiple accounts?","Hi! Per our terms, one account per email/phone. Having multiple accounts may:
+• Block all linked accounts during fraud checks
+• Disqualify from welcome offers
+
+If you need to update email/phone, use 'My Account' → 'Update Contact' instead.
+
+— Team NovaCart 💙","account"
+"How to update phone number?","Hi! To update phone number:
+1. 'My Account' → 'Profile'
+2. Tap 'Phone Number' → 'Edit'
+3. Enter new number → verify via OTP
+
+If old number is inaccessible, share registered email — we'll verify via email instead.
+
+— Team NovaCart 💙","account"
+"My account got locked","Hi! Account lock can happen due to:
+• Multiple wrong password attempts (auto-unlocks in 30 min)
+• Suspicious activity flag (security team review)
+• Pending KYC verification
+
+Share your registered email and I'll check the exact reason and unlock if appropriate.
+
+— Team NovaCart 💙","account"
+"What's your customer service number?","Hi! Reach us 24/7:
+• Phone: 1800-NOVACART (toll-free in India)
+• Email: support@novacart.in
+• Live Chat: bottom-right on website
+• WhatsApp: +91-99999-CLOUD
+
+— Team NovaCart 💙","account"
+"How do I view my order history?","Hi! View order history anytime:
+1. Login to NovaCart
+2. Click 'My Orders' (top right or in menu)
+3. See all orders with status, invoice, tracking
+
+Orders older than 2 years archived — request via support if needed.
+
+— Team NovaCart 💙","account"
+"Can I add multiple addresses?","Hi! Yes, save up to 10 addresses:
+1. 'My Account' → 'Saved Addresses'
+2. Click 'Add New Address'
+3. Pick a default for faster checkout
+
+Addresses are sortable by 'Home', 'Office', 'Other' tags.
+
+— Team NovaCart 💙","account"
+"I want to cancel my order","Hi! Cancel anytime before shipping:
+1. 'My Orders' → Select order → 'Cancel'
+2. Pick a reason, confirm
+3. Full refund in 3-5 days (if prepaid)
+
+Already shipped? Refuse delivery or initiate a return after receiving.
+
+— Team NovaCart 💙","cancellations"
+"Can I cancel after shipping?","Hi! Once shipped, direct cancellation isn't possible. Options:
+1. Refuse the package at delivery (free return)
+2. Accept and initiate return within 7 days
+3. Full refund either way
+
+— Team NovaCart 💙","cancellations"
+"Why was my order cancelled?","Hi! Orders can be auto-cancelled for:
+• Payment verification failure
+• Out of stock during processing
+• Suspicious activity flag
+• Address not deliverable
+
+Share order ID — I'll explain your specific case and get it re-processed if possible.
+
+— Team NovaCart 💙","cancellations"
+"Can I cancel one item from my order?","Hi! Partial cancellations supported before shipping:
+1. 'My Orders' → Select order → 'Cancel'
+2. Choose specific items to cancel
+3. Remaining items ship normally
+4. Partial refund processes for cancelled items
+
+— Team NovaCart 💙","cancellations"
+"Will I get full refund on cancellation?","Hi! Yes, full refund on pre-shipping cancellation:
+• Online payment → original source, 3-5 days
+• COD → no money paid, nothing to refund
+• Wallet/coupons used → returned to wallet immediately
+
+— Team NovaCart 💙","cancellations"
+"Cancel button is missing on my order","Hi! Cancel button disappears when:
+• Order has been shipped
+• Item is from a 'no cancel' category (custom-made, perishable)
+• Order is in final delivery attempt
+
+Share order ID — I'll check eligibility and assist directly.
+
+— Team NovaCart 💙","cancellations"
+"How to cancel COD order?","Hi! COD orders cancel the same way:
+1. 'My Orders' → Select → 'Cancel'
+2. Confirm
+3. No payment was made, so no refund needed
+
+Note: Repeatedly cancelling COD orders may temporarily disable COD on your account.
+
+— Team NovaCart 💙","cancellations"
+"How do I modify my order?","Hi! Order modifications are limited:
+• Address: editable before shipping ('My Orders' → 'Edit Address')
+• Items/quantity: cancel and re-order with changes
+• Payment method: cancel and re-order
+
+Size/color change? Use the Exchange option after delivery.
+
+— Team NovaCart 💙","cancellations"
+"I cancelled but got the delivery anyway","Hi! That shouldn't happen. Quick fix:
+1. Refuse the package if not yet accepted
+2. If accepted: share order ID — I'll arrange free pickup + investigate
+3. Full refund within 5-7 days after pickup
+
+Apologies for the confusion!
+
+— Team NovaCart 💙","cancellations"
+"Can I cancel a pre-order?","Hi! Yes, pre-orders are fully cancellable until shipping date:
+1. 'My Orders' → Select pre-order → 'Cancel'
+2. Full refund in 3-5 days
+
+After pre-order ships, treat as regular order (return within 7 days of delivery).
+
+— Team NovaCart 💙","cancellations"
+"I received a damaged product","Hi! I'm really sorry — that's not the experience we want. Here's what we'll do:
+1. 'My Orders' → Select order → 'Report Damage'
+2. Upload 2-3 photos of damage
+3. Free pickup in 24-48 hours
+4. Full refund OR replacement (your choice)
+
+Flagging to resolution team for priority handling.
+
+— Team NovaCart 💙","escalation"
+"I got the wrong product","Hi! I'm really sorry about the mix-up. Here's the fastest path:
+1. 'My Orders' → Select order → 'Wrong Item Received'
+2. Upload photo of what you received
+3. Free pickup in 24-48 hours
+4. Correct item dispatched OR full refund — your choice
+
+Flagged to resolution team for priority.
+
+— Team NovaCart 💙","escalation"
+"My account got hacked","Hi! This is serious — let's secure it immediately:
+1. I'm locking your account from my end (15 minutes)
+2. You'll get a password reset link on registered email
+3. Set a strong new password + enable 2FA
+4. Review recent orders — any unauthorized? Share order IDs for full refund + fraud investigation
+
+— Team NovaCart 💙","escalation"
+"Product missing from package","Hi! Apologies for that. To resolve:
+1. 'My Orders' → Select order → 'Item Missing'
+2. Upload photo of received package contents + box weight (if possible)
+3. We'll verify with shipping records
+4. Full refund or re-ship within 5 business days
+
+Escalating to fulfillment team.
+
+— Team NovaCart 💙","escalation"
+"This is fraud, I want to file complaint","Hi! I take this very seriously. Let me help:
+1. Share your order ID and exact concern
+2. I'm raising a P1 complaint with our trust & safety team
+3. Investigation completes in 48-72 hours
+4. You'll get email updates and resolution
+
+If you wish to file externally, you can also reach us at grievance@novacart.in for our designated Grievance Officer per IT Act.
+
+— Team NovaCart 💙","escalation"

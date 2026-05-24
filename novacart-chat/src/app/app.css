@@ -1,0 +1,21 @@
+.chat {
+  max-width: 640px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+}
+.messages {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  height: 60vh;
+  overflow-y: auto;
+  background: #fafafa;
+}
+.msg { margin: 0.5rem 0; padding: 0.5rem 0.75rem; border-radius: 8px; max-width: 85%; }
+.msg pre { margin: 0; white-space: pre-wrap; font-family: inherit; }
+.msg.user { background: #d6e8ff; margin-left: auto; text-align: right; }
+.msg.bot  { background: #fff; border: 1px solid #eee; }
+.composer { display: flex; gap: 0.5rem; margin-top: 1rem; }
+.composer input { flex: 1; padding: 0.6rem; border: 1px solid #ccc; border-radius: 6px; font-size: 1rem; }
+.composer button { padding: 0.6rem 1.2rem; border: 0; border-radius: 6px; background: #2563eb; color: #fff; font-size: 1rem; cursor: pointer; }
+.composer button:disabled { opacity: 0.5; cursor: not-allowed; }

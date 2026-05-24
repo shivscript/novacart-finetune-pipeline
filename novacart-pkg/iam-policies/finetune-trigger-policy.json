@@ -1,0 +1,38 @@
+{
+  "_comment": "Inline policy for the fine-tune trigger Lambda. Note the iam:PassRole statement with a condition restricting it to bedrock.amazonaws.com - this is required to hand the Bedrock service role to the customization job, and the condition prevents privilege escalation.",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "BedrockFineTuningAccess",
+      "Effect": "Allow",
+      "Action": [
+        "bedrock:CreateModelCustomizationJob",
+        "bedrock:GetModelCustomizationJob",
+        "bedrock:ListModelCustomizationJobs",
+        "bedrock:TagResource"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "PassBedrockServiceRole",
+      "Effect": "Allow",
+      "Action": "iam:PassRole",
+      "Resource": "arn:aws:iam::*:role/BedrockFineTuningRole",
+      "Condition": {
+        "StringEquals": {"iam:PassedToService": "bedrock.amazonaws.com"}
+      }
+    },
+    {
+      "Sid": "S3ReadMetadata",
+      "Effect": "Allow",
+      "Action": ["s3:GetObject"],
+      "Resource": "arn:aws:s3:::novacart-finetune/metadata/*"
+    },
+    {
+      "Sid": "DynamoDBJobTracking",
+      "Effect": "Allow",
+      "Action": ["dynamodb:PutItem", "dynamodb:GetItem", "dynamodb:UpdateItem"],
+      "Resource": "arn:aws:dynamodb:*:*:table/novacart-finetune-jobs"
+    }
+  ]
+}

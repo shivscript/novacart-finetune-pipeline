@@ -1,0 +1,37 @@
+{
+  "_comment": "Inline policy for the completion handler Lambda. Reads Bedrock job details + S3 metrics, updates DynamoDB, publishes SNS.",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "BedrockReadJobDetails",
+      "Effect": "Allow",
+      "Action": [
+        "bedrock:GetModelCustomizationJob",
+        "bedrock:GetCustomModel",
+        "bedrock:ListModelCustomizationJobs"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "S3ReadOutputArtifacts",
+      "Effect": "Allow",
+      "Action": ["s3:GetObject", "s3:ListBucket"],
+      "Resource": [
+        "arn:aws:s3:::novacart-finetune",
+        "arn:aws:s3:::novacart-finetune/*"
+      ]
+    },
+    {
+      "Sid": "DynamoDBUpdateJobStatus",
+      "Effect": "Allow",
+      "Action": ["dynamodb:GetItem", "dynamodb:UpdateItem", "dynamodb:PutItem"],
+      "Resource": "arn:aws:dynamodb:*:*:table/novacart-finetune-jobs"
+    },
+    {
+      "Sid": "SNSPublishNotifications",
+      "Effect": "Allow",
+      "Action": "sns:Publish",
+      "Resource": "arn:aws:sns:*:*:novacart-finetune-notifications"
+    }
+  ]
+}
